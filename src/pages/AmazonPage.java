@@ -10,5 +10,4 @@ public class AmazonPage {
     // html for deals page
 
 
-    // html for cart page
 }
